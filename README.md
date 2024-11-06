@@ -1,1 +1,1 @@
-# smart-defibrillator
+# Smart Defibrillator
