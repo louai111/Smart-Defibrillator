@@ -41,7 +41,7 @@ This image shows the QR code placed on the defibrillator, which when scanned, op
 <div align="center">
   <img src="3D_Guide.png" alt="3D illustration">
 </div>
-[3D Guide Link](https://playcanv.as/p/33467510/)
+https://playcanv.as/p/33467510/
 
 ## Email Report
 
