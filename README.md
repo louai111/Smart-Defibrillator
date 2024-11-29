@@ -79,7 +79,3 @@ This project provides a reliable, low-cost solution for monitoring and maintaini
 
 - **Omar Khaled**  
   [LinkedIn](https://www.linkedin.com/in/omar-khaled-064b7930a/)
-
----
-
-Let me know if you need further modifications!
