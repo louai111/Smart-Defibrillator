@@ -5,18 +5,16 @@
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [3D Guide](#mobile-interface)
-- [Email Report](#mobile-interface)
+- [Email Report](#email-report)
 - [Contributors](#contributors)
 
 ## Overview
 
 This project utilizes Arduino to build a defibrillator system that not only administers shock but also provides vital health monitoring features. It is equipped with ECG visualization, battery testing, and energy discharge testing capabilities. The defibrillator sends reports of these tests to biomedical engineers or technicians via email, ensuring timely maintenance and monitoring.
 
-Additionally, the device includes a QR code placed on the defibrillator unit itself, which when scanned, opens a web-based 3D animation. This animation demonstrates the correct procedure for delivering a shock to a person in need of emergency defibrillation, enhancing accessibility to vital life-saving information.
+Additionally, the device includes a QR code placed on the defibrillator unit itself, which when scanned, opens a web-based 3D animation. This animation demonstrates the procedure for delivering a shock to a person in need of emergency defibrillation, enhancing accessibility to vital life-saving information.
 
 Data from the system is displayed on a real-time ECG interface, allowing for effective cardiac monitoring. The integration of battery and energy tests ensures that the device is always in optimal working condition, and the automatic email notification feature helps technicians monitor the device's status remotely.
-
-The project takes inspiration from cost-effective health devices and aims to combine vital monitoring with defibrillation capabilities for improved patient care.
 
 <div align="center">
   <img src="Defibrillator_Design.png" alt="defibrillator design">
@@ -49,12 +47,13 @@ This image shows the QR code placed on the defibrillator, which when scanned, op
 - **Energy Discharge Test**: Verifies the defibrillator’s ability to discharge energy correctly.
 - **Email Notifications**: Automatically sends test results to biomedical engineers/technicians for analysis.
 - **QR Code for 3D Animation**: Provides emergency defibrillation instructions via a web-based 3D animation, accessible by scanning a QR code on the defibrillator.
-- **Cost-Effective Design**: Built with low-cost components for wide accessibility in healthcare settings.
   
 ## 3D Guide
 
-A mobile app interface is available for remote monitoring of the defibrillator's health status and ECG data.  
-[Mobile Application Demo Link to be Updated Soon](youtube.com)
+<div align="center">
+  <img src="3D_Guide.png" alt="3D illustration">
+</div>
+[3D Guide Link](https://playcanv.as/p/33467510/)
 
 ## Email Report
 
@@ -62,9 +61,6 @@ A mobile app interface is available for remote monitoring of the defibrillator's
   <img src="Email_Report.jpg" alt="Email Report Sample">
 </div>
 
----
-
-This project provides a reliable, low-cost solution for monitoring and maintaining defibrillators, combining real-time health data with automated email alerts to ensure the device's readiness for emergency use. The inclusion of a QR code with a 3D animation further supports users in learning how to operate the defibrillator in life-threatening situations.
 
 ## Contributors
 
