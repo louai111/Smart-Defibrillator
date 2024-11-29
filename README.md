@@ -16,19 +16,7 @@ Additionally, the device includes a QR code placed on the defibrillator unit its
 
 Data from the system is displayed on a real-time ECG interface, allowing for effective cardiac monitoring. The integration of battery and energy tests ensures that the device is always in optimal working condition, and the automatic email notification feature helps technicians monitor the device's status remotely.
 
-<div align="center">
-  <img src="Defibrillator_Design.png" alt="defibrillator design">
-</div>
-
 This design shows the integration of the defibrillator unit with sensors to monitor key parameters, such as heart rate and battery health. The energy discharge test ensures that the defibrillator can deliver the required shock level to patients.
-
-<br>
-
-<div align="center">
-  <img src="Defibrillator_Test_Results.png" alt="test results">
-</div>
-
-This figure demonstrates how the device performs the necessary tests and generates detailed reports, which are automatically sent to the designated recipients.
 
 <br>
 
